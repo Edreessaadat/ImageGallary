@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         imageInt = 1
         label1.text = String("\(imageInt)/4")
         prevButton.isEnabled = false
+        label1.backgroundColor = .gray
 
     }
 
