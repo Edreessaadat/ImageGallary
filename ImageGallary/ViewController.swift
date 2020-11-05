@@ -5,7 +5,7 @@ import UIKit
 class ViewController: UIViewController {
     
    var imageInt = 0
-    
+    //teset 
     @IBOutlet weak var label1: UILabel!
     
     @IBOutlet weak var imageGallary: UIImageView!
